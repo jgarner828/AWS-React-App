@@ -5,3 +5,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Summary:
 
 Just testing out npx create-react-app --template redux and hosting it with Amazon Web Services using Amplify
+
+
+
+# Live AWS hosted link
+
+
+https://main.doi6mt08qtjc3.amplifyapp.com 
+
+
+// actual builds to come!
